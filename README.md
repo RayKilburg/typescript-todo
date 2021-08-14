@@ -5,6 +5,7 @@
 ## TypeScript Todo App
 
 - This todo app was built with React and TypeScript
+- Type in your task and how long it will take you to complete your task
 - I used this as a practice exercise to learn more about TypeScript
 
 ## Usage
