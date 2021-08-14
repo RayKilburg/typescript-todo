@@ -8,6 +8,9 @@
 - Type in your task and how long it will take you to complete your task
 - I used this as a practice exercise to learn more about TypeScript
 
+<br>
+<img src="./public/paper.png" alt="drawing" width="200" height="200"/>
+
 ## Usage
 
 ### `npm install`
