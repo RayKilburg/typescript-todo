@@ -1,8 +1,10 @@
 # TypeScript Todo App
 
+### https://typescript-tod0.netlify.app/
+
 ## TypeScript Todo App
 
-- This Todo app was built with React and TypeScript
+- This todo app was built with React and TypeScript
 - I used this as a practice exercise to learn more about TypeScript
 
 ## Usage
