@@ -10,6 +10,8 @@
 
 <br>
 <img src="./public/paper.png" alt="drawing" width="200" height="200"/>
+<br>
+<img src="./public/React-and-typescript.png" alt="drawing" width="400" height="240"/>
 
 ## Usage
 
